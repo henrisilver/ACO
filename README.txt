@@ -12,7 +12,7 @@
 * TEMA: COLÔNIA DE FORMIGAS
 */
 
-Implementamos o algoritmo AntSystm aplicado ao problema do Caixeiro Viajante.
+Implementamos o algoritmo AntSystm aplicado ao problema do Caixeiro Viajante em JAVA.
 Nosso problema contem um grafo fortemente conexo representando as 30 cidades
 que o caixeiro precisa visitar.
 
@@ -37,3 +37,9 @@ Arquivo: Graph.java
 
 
 Para executar o algoritmo, utilize o Makefile disponibilizado.
+-> PARA COMPILAR: execute:
+		$ make
+-> PARA EXECUTAR O CODIGO: execute
+		$ make run
+-> PARA REMOVER OS ARQUIVOS .class: execute
+		$ make clean
