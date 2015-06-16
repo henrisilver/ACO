@@ -12,7 +12,6 @@
 * TEMA: COLÔNIA DE FORMIGAS
 */
 
-
 import java.util.Random;
 
 // Classe que representa nosso AntSystem - "motor do algoritmo"

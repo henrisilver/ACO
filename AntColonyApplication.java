@@ -12,8 +12,6 @@
 * TEMA: COLÔNIA DE FORMIGAS
 */
 
-
-
 // Implementacao do algoritmo AntSystem
 public class AntColonyApplication {
 
